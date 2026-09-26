@@ -41,11 +41,11 @@ Choose the format that suits you:
 
 ### 🌐 Complete HTML
 
-[🚀 Open Complete HTML Handbook](https://bytealok.github.io/System-Command-Handbook/)
+[🚀 Open Website](https://bytealok.github.io/System-Command-Handbook/)
 
 ### 📄 Download PDF
 
-[⬇️ Download System Command Handbook PDF](./Linux%20Command%20Handbook.pdf)
+[⬇️ Download System Command Handbook PDF](./Linux_Command_Handbook.pdf)
 
 ---
 
