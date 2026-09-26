@@ -1,30 +1,104 @@
 # 📚 System Command Handbook
 
-A comprehensive, professionally categorized reference for 265 essential commands that Software Engineers, DevOps Engineers, and System Administrators use daily.
+A comprehensive, professionally categorized reference for **265 essential commands** used by Software Engineers, DevOps Engineers, Cloud Engineers, and System Administrators.
 
-This repository serves as a practical, day-to-day guide for navigating systems, managing version control, deploying containers, and orchestrating clusters. It is organized into bite-sized, topic-based modules to make studying and referencing easy.
+This handbook covers Linux, Shell, Git, SSH & Security, Docker, Kubernetes, and essential DevOps & Cloud utilities in a structured, topic-wise format.
+
+---
 
 ## 🗂️ Modules
 
 * [🐧 Linux Core](linux.md) (Commands 1–150)
   * Navigation, File Management, Text Processing, Permissions, System Info, Storage, Networking, Packages & Services
+
 * [⚙️ DevOps Foundations](devops.md) (Commands 151–162)
-  * Scheduling and Automation (`cron`, `at`, `timeout`)
+  * Scheduling and Automation
+
 * [🐚 Shell & Environment](shell.md) (Commands 163–175)
   * Shell configuration, Variables, Aliases, History
+
 * [🌳 Git Essentials](git.md) (Commands 176–205)
-  * Complete Git workflow: Config, Branching, Rebasing, Stashing, Remotes & Collaboration
+  * Configuration, Branching, Rebasing, Stashing, Remotes & Collaboration
+
 * [🔐 SSH & Security](ssh-security.md) (Commands 206–220)
-  * Remote administration, Keys, Cryptography (`gpg`, `openssl`), and Checksums
+  * Remote Administration, SSH Keys, Cryptography & Checksums
+
 * [🐳 Docker Essentials](docker.md) (Commands 221–245)
-  * Container lifecycle, Image management, Networks, Volumes, and Docker Compose
+  * Containers, Images, Networks, Volumes & Docker Compose
+
 * [☸️ Kubernetes & Cloud Utilities](kubernetes.md) (Commands 246–265)
-  * `kubectl` workflows, Helm operations, and YAML/JSON processors (`jq`, `yq`)
+  * `kubectl`, Helm, `jq`, `yq` and other DevOps/Cloud utilities
 
-## 📖 Source of Truth
+---
 
-The canonical source of all command definitions and examples is the included `index.html` file, which features a professionally designed Tailwind CSS layout for printing or standalone viewing. The `.md` files in this repository have been generated directly from this authoritative document to facilitate easy per-topic reading on GitHub.
+## 📖 Available Formats
+
+Choose the format that suits you:
+
+- 📖 **Markdown** — Topic-wise reading directly on GitHub
+- 🌐 **HTML** — Complete styled version for browser reading and printing
+- 📄 **PDF** — Offline reading, revision and printing
+
+### 🌐 Complete HTML
+
+[🚀 Open Complete HTML Handbook](https://bytealok.github.io/System-Command-Handbook/)
+
+### 📄 Download PDF
+
+[⬇️ Download System Command Handbook PDF](./Linux%20Command%20Handbook.pdf)
+
+---
+
+## 📌 Source of Truth
+
+The `index.html` file is the complete source of the handbook. The topic-wise Markdown files are organized from the same content for easier reading and reference on GitHub.
+
+---
+
+## 📁 Repository Structure
+
+```text
+System-Command-Handbook/
+├── README.md
+├── index.html
+├── Linux Command Handbook.pdf
+├── LICENSE
+├── linux.md
+├── devops.md
+├── shell.md
+├── git.md
+├── ssh-security.md
+├── docker.md
+└── kubernetes.md
+```
+
+---
+
+## ⭐ Support
+
+If this repository helps you:
+
+⭐ Star the repository  
+🍴 Fork the repository  
+📢 Share it with others  
+🤝 Contribute improvements
+
+---
 
 ## 📄 License
 
-This repository is available under an open-source license. See the [LICENSE](LICENSE) file for more information.
+This project is available under the license included in the repository.
+
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+### 🚀 System Command Handbook
+
+**Linux • Git • Docker • Kubernetes • DevOps • Cloud**
+
+Made for DevOps & Cloud learners.
+
+</div>
